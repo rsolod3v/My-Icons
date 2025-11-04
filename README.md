@@ -1,7 +1,10 @@
 ## 🧩 Biblioteca de Ícones Clicáveis
 
-Essa é uma **biblioteca pessoal de ícones clicáveis**, criada só por diversão e aprimorada com o tempo.
-Se quiser sugerir **novos ícones**, basta abrir um comentário dizendo qual gostaria de ver aqui!
+Este é um **projeto pessoal**, criado apenas por diversão e voltado para **fins decorativos de perfil**.
+O repositório foi desenvolvido **com ajuda do ChatGPT**, e serve como uma forma de praticar, relaxar e organizar ideias enquanto foco meus estudos em **apenas uma linguagem de programação específica** no momento.
+
+> ⚠️ **Observação:** o uso de HTML aqui é **somente para exibição** dos ícones.
+> A linguagem principal que estou estudando **não tem relação com HTML** — esse código é usado apenas como forma prática de mostrar os ícones no README.
 
 ---
 
@@ -31,8 +34,10 @@ Use o código-base abaixo para adicionar qualquer ícone clicável no seu README
 </a>
 ```
 <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64"></a>
-O resultado é um **ícone clicável**, com redirecionamento automático para o link escolhido, sem perda de qualidade — ideal para perfis, portfólios e projetos.
+
+O resultado é um **ícone clicável**, com redirecionamento automático para o link escolhido, sem perda de qualidade — ideal para perfis, portfólios e páginas pessoais.
 
 ---
 
-💬 *Com o tempo, pretendo adicionar mais ícones e aprimorar a biblioteca. Fique à vontade para contribuir ou sugerir novos formatos!*
+🧠 **Nota final:** este repositório é apenas um projeto leve e experimental, criado para fins estéticos e aprendizado descontraído.
+💬 *Se quiser sugerir novos ícones ou dar ideias de melhorias, é só comentar!*
