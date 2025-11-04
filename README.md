@@ -29,9 +29,7 @@ Use o código-base abaixo para adicionar qualquer ícone clicável no seu README
 ### 💡 Exemplo pronto
 
 ```html
-<a href="https://rsolod3v0.itch.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64">
-</a>
+<a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64"></a>
 ```
 <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64"></a>
 
