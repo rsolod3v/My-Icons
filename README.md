@@ -1,43 +1,44 @@
-## 🧩 Biblioteca de Ícones Clicáveis
+## 🧩 Clickable Icons Library
 
-Este é um **projeto pessoal**, criado apenas por diversão e voltado para **fins decorativos de perfil**.
-O repositório foi desenvolvido **com ajuda do ChatGPT**, e serve como uma forma de praticar, relaxar e organizar ideias enquanto foco meus estudos em **apenas uma linguagem de programação específica** no momento.
+This is a **personal project**, created just for fun and meant for **decorative profile purposes**.
+The repository was developed **with the help of ChatGPT**, and serves as a way to **practice, relax, and organize ideas** while I focus my studies on **one specific programming language** at the moment.
 
-> ⚠️ **Observação:** o uso de HTML aqui é **somente para exibição** dos ícones.
-> A linguagem principal que estou estudando **não tem relação com HTML** — esse código é usado apenas como forma prática de mostrar os ícones no README.
+> ⚠️ **Note:** the use of HTML here is **purely for display**.
+> The main language I’m studying **is not related to HTML** — this code is only used to visually showcase the icons in the README.
 
 ---
 
-### 🔧 Como usar
+### 🔧 How to use
 
-Use o código-base abaixo para adicionar qualquer ícone clicável no seu README:
+Use the base code below to add any clickable icon to your README:
 
 ```html
-<a href="LINK_DO_SITE" target="_blank">
-  <img src="LINK_DA_IMAGEM" width="64">
+<a href="SITE_LINK" target="_blank">
+  <img src="ICON_LINK" width="64">
 </a>
 ```
 
-**Ordem dos parâmetros:**
+**Parameter order:**
 
-1. **LINK_DO_SITE** → endereço que o ícone deve abrir.
-2. **LINK_DA_IMAGEM** → URL do ícone dentro da biblioteca (aceita `.svg`, `.png` ou `.gif`).
-3. **width** → define o tamanho exibido do ícone (ex: `32`, `48`, `64`, etc.).
+1. **SITE_LINK** → the URL the icon should open.
+2. **ICON_LINK** → the icon’s URL from the library (supports `.svg`, `.png`, or `.gif`).
+3. **width** → defines the displayed icon size (e.g., `32`, `48`, `64`, etc.).
 
 ---
 
-### 💡 Exemplo pronto
+### 💡 Example
 
 ```html
-<a href="https://github.com/rsolod3v" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Icons/DarkMode/Statics/Github-Dark-Mode.png?raw=true" width="64"></a>
+<a href="https://github.com/rsolod3v" target="_blank">
+  <img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Icons/DarkMode/Statics/Github-Dark-Mode.png?raw=true" width="64">
+</a>
 ```
-<a href="https://github.com/rsolod3v" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Github.png?raw=true" width="64"></a>
-<a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Itchio.png?raw=true" width="64"></a>
-<a href="https://github.com/rsolod3v" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Website.png?raw=true" width="64"></a>
 
-O resultado é um **ícone clicável**, com redirecionamento automático para o link escolhido, sem perda de qualidade — ideal para perfis, portfólios e páginas pessoais.
+<a href="https://github.com/rsolod3v" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Github.png?raw=true" width="64"></a> <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Itchio.png?raw=true" width="64"></a> <a href="https://github.com/rsolod3v" target="_blank"><img src="https://github.com/rsolod3v/IconsForHtml/blob/main/Documents/GithubPerfils/Icons/Statics/Website.png?raw=true" width="64"></a>
+
+The result is a **clickable icon** that automatically redirects to the chosen link — no quality loss, perfect for profiles, portfolios, and personal pages.
 
 ---
 
-🧠 **Nota final:** este repositório é apenas um projeto leve e experimental, criado para fins estéticos e aprendizado descontraído.
-💬 *Se quiser sugerir novos ícones ou dar ideias de melhorias, é só comentar!*
+🧠 **Final note:** this repository is a light, experimental project created purely for aesthetic and learning purposes.
+💬 *If you’d like to suggest new icons or ideas for improvement, feel free to comment!*
